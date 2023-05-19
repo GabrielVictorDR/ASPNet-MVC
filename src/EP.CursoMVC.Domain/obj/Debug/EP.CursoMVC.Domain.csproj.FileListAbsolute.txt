@@ -1,0 +1,5 @@
+C:\Projetos\Web\Aula\WebApplicationAula\src\EP.CursoMVC.Domain\bin\Debug\EP.CursoMVC.Domain.dll
+C:\Projetos\Web\Aula\WebApplicationAula\src\EP.CursoMVC.Domain\bin\Debug\EP.CursoMVC.Domain.pdb
+C:\Projetos\Web\Aula\WebApplicationAula\src\EP.CursoMVC.Domain\obj\Debug\EP.CursoMVC.Domain.csprojResolveAssemblyReference.cache
+C:\Projetos\Web\Aula\WebApplicationAula\src\EP.CursoMVC.Domain\obj\Debug\EP.CursoMVC.Domain.dll
+C:\Projetos\Web\Aula\WebApplicationAula\src\EP.CursoMVC.Domain\obj\Debug\EP.CursoMVC.Domain.pdb
